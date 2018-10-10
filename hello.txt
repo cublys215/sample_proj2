@@ -1,2 +1,2 @@
 hello GitHub
-Hello Atom
+Hello Atom!!
